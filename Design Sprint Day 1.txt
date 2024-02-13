@@ -1,0 +1,12 @@
+﻿Scenarios
+
+
+Ned is an undergraduate student studying astrophysics and minoring in mathematics. He plans on working for one of the biggest space companies in the world, NASA. However, in his undergraduate studies, he is facing some great difficulties with one of his classes, Calculus III, which is known to be a required course in order to complete his goals. He asks his professor for some basic concepts to study for but it seems that the professor doesn't either have time to teach Ned or is disinterested with teaching Ned. So Ned asks the TA but he soon realizes that the TA is on research duty until next month. In his class, which only has 20 students in, it seems that known one else knows what is going on within the course and they plan to use AI to help explain topics, as well complete most of their assignments. Ned doesn't want to fall into that trap and run the risk of getting caught with academic violation from his school. Ned overhears one of the students to use askHole, an online Q&A site which is favored in school by both TA’s and Professors. With curiosity, Ned asks his professor if this breaks academic integrity and his professor says that askHole is user verfired from TA’s, Professors, and other students that are in the course are taking the course then and their 
+
+
+Feature List
+* Course based community collaboration
+   * Means that students within the same class but in different sections can now collaborate with each other
+* Honor point system
+   * With each correct answers that students share, the community can vote on rather the answer is good or bad
+User Stories
